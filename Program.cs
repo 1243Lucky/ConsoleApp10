@@ -12,6 +12,7 @@ namespace ConsoleApp10
             Console.WriteLine("From Vs 2");
             Console.WriteLine("From git 2");
             Console.WriteLine("From Vs 3");
+            Console.WriteLine("sai");
             Console.ReadLine();
         }
     }
