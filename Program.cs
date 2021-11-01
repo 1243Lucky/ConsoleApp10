@@ -12,6 +12,7 @@ namespace ConsoleApp10
             Console.WriteLine("From Vs");
             Console.WriteLine("From git 2");
             Console.WriteLine("new branch");
+            Console.WriteLine("Hello");
             Console.ReadLine();
         }
     }
