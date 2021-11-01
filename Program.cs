@@ -7,11 +7,10 @@ namespace ConsoleApp10
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("sai");
             Console.WriteLine("From git");
             Console.WriteLine("From Vs 2");
             Console.WriteLine("From git 2");
-            Console.WriteLine("From Vs 3");
-            Console.WriteLine("sai");
             Console.ReadLine();
         }
     }
