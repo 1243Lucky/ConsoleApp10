@@ -9,6 +9,7 @@ namespace ConsoleApp10
             Console.WriteLine("Hello World!");
             Console.WriteLine("From git");
             Console.WriteLine("From Vs");
+            Console.WriteLine("From Vs 2");
             Console.ReadLine();
         }
     }
